@@ -1,0 +1,29 @@
+{
+  "name": "noflo-helper-arrayable",
+  "description": "Arrayable helper to NoFlo components",
+  "keywords": [
+    "fbp",
+    "workflow",
+    "flow",
+    "arrayable",
+    "array",
+    "helper"
+  ],
+  "repo": "automata/noflo-helper-arrayable",
+  "version": "0.1.0",
+  "dependencies": {
+    "noflo/noflo": "*"
+  },
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ],
+  "development": {},
+  "license": "MIT",
+  "main": "lib/Arrayable.js",
+  "scripts": [
+    "src/lib/Arrayable.coffee"
+  ],
+  "json": [
+    "component.json"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "noflo-helper-arrayable",
+  "description": "Arrayable helper to NoFlo components",
+  "keywords": [
+    "fbp",
+    "workflow",
+    "flow",
+    "arrayable",
+    "array",
+    "helper"
+  ],
+  "author": "Forrest Oliphant <forresto@sembiki.com>",
+  "contributors": [
+    "Vilson Vieira <vilson@void.cc>"
+  ],
+  "version": "0.1.0",
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {
+    "coffee-script": ">=1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.7",
+    "grunt-coffeelint": "0.0.10",
+    "grunt-contrib-coffee": "~0.10.1"
+  },
+  "main": "./lib/Arrayable",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/automata/noflo-helper-arrayable.git"
+  }
+}
